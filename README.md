@@ -4,8 +4,11 @@ Fastest Way to Create APIs using NestJS Framework
  ## Description
 Simple CRUD API for users in minute without any handling of endpoints or db collection 
 
-[Swagger Documentation](https://github.com/mohamedlotfe/NestJs-APIs/blob/main/Capture1.PNG) 
-[User Schema](https://github.com/mohamedlotfe/NestJs-APIs/blob/main/Capture2.PNG) 
+### Swagger Documentation
+<img src="https://github.com/mohamedlotfe/NestJs-APIs/blob/main/Capture1.PNG">
+
+### User Schema
+<img src="https://github.com/mohamedlotfe/NestJs-APIs/blob/main/Capture2.PNG">
 
 ## Installation
 
