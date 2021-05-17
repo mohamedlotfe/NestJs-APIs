@@ -1,5 +1,5 @@
-## About 
-Fastest Way to Create APIs using NestJS Framework 
+## Fastest APIs 
+Fastest Way to Create APIs using NestJS Framework and MYSQL Server.
 
  ## Description
 Simple CRUD API for users in minute without any handling of endpoints or db collection 
